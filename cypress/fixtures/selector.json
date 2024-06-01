@@ -1,0 +1,15 @@
+{
+  "homePageSignupButtom": "<button type="button" width="30" class="sc-fqkvVR eSjIqR"> <!-- -->Sign up</button>",
+  "fullnamefield": "#fullname",
+  "businessnamefield": "#businessname",
+  "buinessnameEmailfield": "#businessemail",
+  "phonenumberfield": "#businessphonenumber",
+  "businessregistrationnumberfield": "#businessRegNum",
+  "WebsiteOptionalField": "#website",
+  "InstagramHandleField": "#instagramHandle",
+  "TwitterHandleField": "#twitterHandle",
+  "HearAboutMima": "",
+  "Password": "#password",
+  "SignupField":""
+
+}
